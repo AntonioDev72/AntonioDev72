@@ -1,0 +1,32 @@
+<svg width="650" height="280" viewBox="0 0 650 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <!-- Terminal window -->
+  <rect width="650" height="280" rx="12" fill="url(#termBg)" stroke="#30363d" stroke-width="1"/>
+  <!-- Title bar -->
+  <rect width="650" height="36" rx="12" fill="#161b22"/>
+  <rect width="650" height="12" y="24" fill="#161b22"/>
+  <!-- Traffic lights -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+  <!-- Title -->
+  <text x="325" y="23" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">antonio@vancouver ~ zsh</text>
+  <!-- Terminal content -->
+  <text x="20" y="65" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#2997ff">$ whoami</text>
+  <text x="20" y="90" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#30d158">→ Antonio Amaral | Fullstack Developer</text>
+  <text x="20" y="120" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#2997ff">$ cat about.json</text>
+  <text x="20" y="145" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">{</text>
+  <text x="20" y="163" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">  <tspan fill="#79c0ff">"location"</tspan>: <tspan fill="#a5d6ff">"Vancouver, BC 🍁"</tspan>,</text>
+  <text x="20" y="181" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">  <tspan fill="#79c0ff">"studying"</tspan>: <tspan fill="#a5d6ff">"Greystone College"</tspan>,</text>
+  <text x="20" y="199" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">  <tspan fill="#79c0ff">"stack"</tspan>: <tspan fill="#a5d6ff">"React · Node.js · MongoDB"</tspan>,</text>
+  <text x="20" y="217" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">  <tspan fill="#79c0ff">"status"</tspan>: <tspan fill="#3fb950">"Open to work ✅"</tspan></text>
+  <text x="20" y="235" font-family="'Fira Code', 'Courier New', monospace" font-size="12" fill="#e6edf3">}</text>
+  <text x="20" y="260" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#2997ff">$ <tspan fill="#e6edf3">█</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
