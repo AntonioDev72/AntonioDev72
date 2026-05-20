@@ -132,7 +132,7 @@ life_philosophy: "Ship it. Improve it. Repeat. 🚀"
   </a>
   &nbsp;
   <a href="https://github.com/AntonioDev72">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+    <img height="195em" src="https://streak-stats.demolab.com?user=AntonioDev72&theme=tokyonight&hide_border=true&background=0D1117&stroke=2997ff&ring=2997ff&fire=30d158&currStreakLabel=2997ff"/>
   </a>
 
   <br/><br/>
