@@ -233,11 +233,14 @@ life_philosophy: "Ship it. Improve it. Repeat. 🚀"
 </a>
 &nbsp;
 <a href="https://cineflix-alpha-ruddy.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🎬_CineSearch-Movie_Discovery-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/🎬_CineFlix-Movie_Discovery-f093fb?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://dev-flow-five-kappa.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🍅_DevFlow-Pomodoro_Timer-30d158?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+<a href="https://soundfy-pi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🎵_Soundfy-Music_Streaming-1db954?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
 </div>
